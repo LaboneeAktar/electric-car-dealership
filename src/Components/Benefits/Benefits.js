@@ -23,12 +23,12 @@ const Benefits = () => {
   ];
 
   return (
-    <section className="py-20 px-20">
+    <section className="py-20 lg:px-20">
       <span className="flex items-center justify-center text-center mb-5">
         <img src={arrowRight} className="h-4 w-20 mr-2" alt="" />
         <p className="text-lime-500 font-semibold text-center">Why Choose Us</p>
       </span>
-      <span className="flex items-center">
+      <span className="lg:flex items-center">
         <h1 className="text-3xl font-bold lg:ml-80 text-end">
           Why Us <br /> Electric Vehicle
         </h1>
